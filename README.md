@@ -2,8 +2,8 @@
 
 Mobile App Startup Project
 
-Framework:
-Meteor JS, Cordova, JQuery, CSS, HTML
+Mobile App Platform:
+Android
 
 Color:
 Spring Green #00EE76
