@@ -7,6 +7,7 @@ Android
 
 Color:
 Spring Green #00EE76
+Potential Colors: Purple #948cf0 (Primary), Teal #48d4b3 (Secondary), White
 
 Secondary Color (Age, Hometown, State): 
 lightgrey (SVG)	#D3D3D3
